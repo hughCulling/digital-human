@@ -15,7 +15,7 @@ Follow the quickstart guide [here](https://docs.nvidia.com/ace/tokkio/4.1/quicks
 The Digital Human Pipeline broadly involves four components to be installed:
 1. The Tokkio Backend: This is the core of the Digital Human pipeline and is a helm chart that comprises of all the inference technologies and orchestration pipeline and is deployed as a helm chart on Kubernetes environment.
 2. The Media Relay Service: This component is responsible for relaying media between Client browser and Tokkio Back-end.
-3. The Tokkio UI Clinet / Tokkio Front End: A Web application front-end comprising necessary components to interact with Tokkio Back-end.
+3. The Tokkio UI Client / Tokkio Front End: A Web application front-end comprising necessary components to interact with Tokkio Back-end.
 Read more about each component and the deployment architecture [here](https://docs.nvidia.com/ace/tokkio/4.1/deployment/overview.html)
 
 ## RAG Pipeline Deployment
